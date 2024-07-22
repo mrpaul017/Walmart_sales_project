@@ -4,6 +4,10 @@
 
 The major aim of this project is to gain insight into the sales data of Walmart to understand the different factors that affect sales in different other branches.
 
+
+![Screenshot 2024-07-22 141905](https://github.com/user-attachments/assets/238c8151-18a9-4611-a5e4-7a3d2e77dc7d)
+
+## For Full Code see my repository SQL code file
 # About the data:
 This dataset contains sales transactions from  three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data includes 17 columns and 1000 rows.
 
